@@ -1,0 +1,21 @@
+<html>
+<head>格式单词与含义</head>
+<body>
+<table width="900" border="1">
+<tr align="center" width="900">横向通栏示例</tr>
+<tr>
+<td align="center" width="450"><br>纵向通栏示例<br></td>
+<td width="300">
+<tr align="center">格式单词</tr>
+<tr align="center">width</tr>
+<tr align="center">height</tr>
+</td>
+<td width="150">
+<tr align="center">含义</tr>
+<tr align="center">宽度</tr>
+<tr align="center">高度</tr>
+</td>
+</tr>
+</table>
+</body>
+</html>
